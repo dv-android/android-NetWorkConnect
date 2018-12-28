@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:20:1-47:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6f14b7f8249bca25aedfa768da505ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\0a90dc46fcfefd0e9010e1c34f40850a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a2a40e76faacce76a270cfc5c51897c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0dc6ca281885b0ad6276e286877fd0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\83c84ab1a73637c015febed5292188c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\690a11bf18c951734fa635df2d3784f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0d33464a7ca655deb7f105f36d9065b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\690e057dd1f012104332b55962e34da5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08f33b3c47cb6a0d9e9da1321a46a7a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ff2275e107533302ccfc7a1eb6f862b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e00ce27560b328f62c6d15981fd67a22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6d02d5c9e1052e61433b3b48a61b3f3f\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:20:1-47:12
+	package
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:22:5-49
+	android:versionName
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:21:5-63
+	android:versionCode
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:28:22-76
+application
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:30:5-46:19
+	android:label
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:32:9-45
+	android:allowBackup
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:33:9-44
+	android:networkSecurityConfig
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:35:9-69
+activity#com.example.android.networkconnect.MainActivity
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:38:13-45
+	android:uiOptions
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:37:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6f14b7f8249bca25aedfa768da505ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6f14b7f8249bca25aedfa768da505ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\0a90dc46fcfefd0e9010e1c34f40850a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\0a90dc46fcfefd0e9010e1c34f40850a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a2a40e76faacce76a270cfc5c51897c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a2a40e76faacce76a270cfc5c51897c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0dc6ca281885b0ad6276e286877fd0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0dc6ca281885b0ad6276e286877fd0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\83c84ab1a73637c015febed5292188c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\83c84ab1a73637c015febed5292188c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\690a11bf18c951734fa635df2d3784f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\690a11bf18c951734fa635df2d3784f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0d33464a7ca655deb7f105f36d9065b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0d33464a7ca655deb7f105f36d9065b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\690e057dd1f012104332b55962e34da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\690e057dd1f012104332b55962e34da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08f33b3c47cb6a0d9e9da1321a46a7a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08f33b3c47cb6a0d9e9da1321a46a7a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ff2275e107533302ccfc7a1eb6f862b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ff2275e107533302ccfc7a1eb6f862b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e00ce27560b328f62c6d15981fd67a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e00ce27560b328f62c6d15981fd67a22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6d02d5c9e1052e61433b3b48a61b3f3f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DEVANG\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6d02d5c9e1052e61433b3b48a61b3f3f\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVANG\AndroidStudioProjects\android-NetworkConnect\Application\src\main\AndroidManifest.xml
